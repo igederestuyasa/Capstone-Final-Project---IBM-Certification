@@ -45,10 +45,10 @@ Modernize technology stack to improve efficiency and satisfaction.
 Future Application
 This method can be scaled for continuous employee voice analysis, leveraging AI for organizational insights while ensuring anonymity, which research (Suler, 2004 – Online Disinhibition Effect) suggests encourages more open employee feedback.
 
-Raw dataset link
+**Raw dataset link**
 https://docs.google.com/spreadsheets/d/1hlHg3c9EUcofBQFAaWnarL_duwYNQFfp/edit?usp=drive_link&ouid=101226312122404077611&rtpof=true&sd=true
 
-AI support explanation
+**AI support explanation**
 1. Classifying and Summarizing the Data based on the Prompt.
 2. Mendapatkan insight terkait area of improvement suatu perusahaan.
 3. Menemukan key strenght perusahaan.
